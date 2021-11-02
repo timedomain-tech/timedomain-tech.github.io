@@ -1,6 +1,6 @@
 # RefineGAN: Universally Generating High-Fidelity Waveform Better than Ground Truth
 #### Shengyuan Xu,Wenxiao Zhao,Jing Guo
-[[paper]]()
+[[paper]](https://arxiv.org/abs/2111.00962)
 
 ## Singing Voice
 
@@ -90,10 +90,10 @@ Sonobe R, Takamichi S, Saruwatari H. JSUT corpus: free large-scale Japanese spee
 
 |speaker|predicted|ground-truth|file name|
 |-------|:-------:|:----------:|---------|
-|Female 1 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/ONOMATOPEE300_107_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/ONOMATOPEE300_107.wav">|ONOMATOPEE300_107.wav|
-|Female 2 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/REPEAT500_set4_060_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/REPEAT500_set4_060.wav">|REPEAT500_set4_060.wav|
-|Male 1 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/TRAVEL1000_0670_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/TRAVEL1000_0670.wav">|TRAVEL1000_0670.wav|
-|Male 2 |<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/UT-PARAPHRASE-sent124-phrase2_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/UT-PARAPHRASE-sent124-phrase2.wav">|UT-PARAPHRASE-sent124-phrase2.wav|
+|Female|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/ONOMATOPEE300_107_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/ONOMATOPEE300_107.wav">|ONOMATOPEE300_107.wav|
+|Female|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/REPEAT500_set4_060_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/REPEAT500_set4_060.wav">|REPEAT500_set4_060.wav|
+|Female|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/TRAVEL1000_0670_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/TRAVEL1000_0670.wav">|TRAVEL1000_0670.wav|
+|Female|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/UT-PARAPHRASE-sent124-phrase2_generated.wav">|<audio controls preload="auto" src="https://xushengyuan.github.io/refinegan/speech_jpn/UT-PARAPHRASE-sent124-phrase2.wav">|UT-PARAPHRASE-sent124-phrase2.wav|
 
 ### Under-Resourced Langeuages
 
